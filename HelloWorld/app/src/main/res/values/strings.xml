@@ -1,0 +1,23 @@
+<resources>
+
+    // Create your strings here.
+
+    <string name="app_name">Snuggle Monkey</string>
+
+    <string name="edit_message">Enter your name.</string>
+
+    // Created for text box 1, display a hint for user to enter a message.
+    // https://developer.android.com/training/basics/firstapp/building-ui.html
+    // UI Properties, click hint, then click properties, double click edit_message to list.
+
+    <string name="button">Go!</string>
+
+    // Created for the button on display.
+    // https://developer.android.com/training/basics/firstapp/building-ui.html
+
+    // Still viewing the text box properties, also delete the value for the text property (currently
+    set to "Name").
+    // Now click the button in the layout, locate the text property, click Pick a Resource, and then
+    select button_send.
+
+</resources>
